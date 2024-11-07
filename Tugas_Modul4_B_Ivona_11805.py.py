@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import os
-import plotly.express as px
+import plotlt.express as px
 import numpy as np
 from sklearn.metrics import pairwise_distances
 import plotly.graph_objects as go
